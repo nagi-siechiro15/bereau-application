@@ -43,7 +43,7 @@ namespace bereau_application
             {
                 if (ctrl is CheckBox cb && cb.Checked)
                 {
-                    label3.Text += " | " + cb.Text;
+                    label3.Text += " | " + cb.Text + "\n";
                 }
             }
 

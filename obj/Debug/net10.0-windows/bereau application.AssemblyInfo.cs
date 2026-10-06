@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bereau application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87a972d090c44518fa636af13616d9a5c8e8af33")]
 [assembly: System.Reflection.AssemblyProductAttribute("bereau application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bereau application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

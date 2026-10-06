@@ -79,7 +79,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(444, 312);
+            button1.Location = new Point(579, 303);
             button1.Name = "button1";
             button1.Size = new Size(88, 29);
             button1.TabIndex = 4;
@@ -89,7 +89,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(185, 312);
+            button2.Location = new Point(579, 350);
             button2.Name = "button2";
             button2.Size = new Size(88, 29);
             button2.TabIndex = 5;
@@ -139,7 +139,7 @@
             // radioButton1
             // 
             radioButton1.AutoSize = true;
-            radioButton1.Location = new Point(455, 171);
+            radioButton1.Location = new Point(63, 190);
             radioButton1.Name = "radioButton1";
             radioButton1.Size = new Size(81, 24);
             radioButton1.TabIndex = 10;
@@ -150,7 +150,7 @@
             // radioButton2
             // 
             radioButton2.AutoSize = true;
-            radioButton2.Location = new Point(455, 252);
+            radioButton2.Location = new Point(63, 257);
             radioButton2.Name = "radioButton2";
             radioButton2.Size = new Size(77, 24);
             radioButton2.TabIndex = 11;
@@ -163,7 +163,7 @@
             panel1.Controls.Add(checkBox1);
             panel1.Controls.Add(checkBox2);
             panel1.Controls.Add(checkBox3);
-            panel1.Location = new Point(52, 171);
+            panel1.Location = new Point(455, 156);
             panel1.Name = "panel1";
             panel1.Size = new Size(212, 125);
             panel1.TabIndex = 12;
