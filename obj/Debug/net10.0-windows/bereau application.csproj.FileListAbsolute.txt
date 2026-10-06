@@ -1,0 +1,18 @@
+C:\Users\ayoub\source\repos\bereau application\bereau application\bin\Debug\net10.0-windows\bereau application.exe
+C:\Users\ayoub\source\repos\bereau application\bereau application\bin\Debug\net10.0-windows\bereau application.deps.json
+C:\Users\ayoub\source\repos\bereau application\bereau application\bin\Debug\net10.0-windows\bereau application.runtimeconfig.json
+C:\Users\ayoub\source\repos\bereau application\bereau application\bin\Debug\net10.0-windows\bereau application.dll
+C:\Users\ayoub\source\repos\bereau application\bereau application\bin\Debug\net10.0-windows\bereau application.pdb
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau_application.Form1.resources
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau application.csproj.GenerateResource.cache
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau application.AssemblyInfoInputs.cache
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau application.AssemblyInfo.cs
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau application.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau application.dll
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\refint\bereau application.dll
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau application.pdb
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau application.genruntimeconfig.cache
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\ref\bereau application.dll
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau a.A617546E.Up2Date
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau_application.Form3.resources
