@@ -18,6 +18,12 @@ namespace bereau_application
 
         private void Form3_Load(object sender, EventArgs e)
         {
+            radioButton1.Text = "Homme";
+            radioButton2.Text = "Femme";
+
+            
+            radioButton1.Checked = true;
+
             comboBox1.Items.Add("Figuig");
             comboBox1.Items.Add("Oujda");
             comboBox1.Items.Add("Fes");
@@ -49,11 +55,11 @@ namespace bereau_application
 
             if (radioButton1.Checked)
             {
-                label3.Text = "Genre sélectionné : " + radioButton1.Text;
+                label3.Text += " | Genre sélectionné : " + radioButton1.Text;
             }
             else if (radioButton2.Checked)
             {
-                label3.Text = "Genre sélectionné : " + radioButton2.Text;
+                label3.Text += " | Genre sélectionné : " + radioButton2.Text;
             }
             else
             {
@@ -79,6 +85,10 @@ namespace bereau_application
         {
 
         }
+
+
+
+
     }
 
 }

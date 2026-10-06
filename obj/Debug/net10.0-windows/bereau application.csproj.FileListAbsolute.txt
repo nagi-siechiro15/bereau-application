@@ -16,3 +16,4 @@ C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net1
 C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\ref\bereau application.dll
 C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau a.A617546E.Up2Date
 C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau_application.Form3.resources
+C:\Users\ayoub\source\repos\bereau application\bereau application\obj\Debug\net10.0-windows\bereau application.sourcelink.json
